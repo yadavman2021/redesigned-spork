@@ -4,7 +4,7 @@ Pure feature detection library, a la carte style.
 
 This document is **not** complete.
 
-## About
+## Abouts
 
 Browser sniffing and feature inference are flawed techniques for detecting browser support in client side JavaScript. The goal of **has.js** is to provide a collection of self-contained tests and unified framework around using pure feature detection for whatever library consumes it.
 
